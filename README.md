@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... currently learning out of CSUMB
 - 💞️ I’m looking to collaborate on ... anything incorporating interfaces and UI/UX
 - 📫 How to reach me ... ctangonan@csumb.edu
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... it was through health related issues and an interest in martial arts, that I discovered a love for problem solving, programming, and an interest in system design.
 
 <!---
