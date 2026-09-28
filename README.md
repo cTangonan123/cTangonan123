@@ -3,7 +3,7 @@
 
 ### Open Source Contributions:
 - ✏️ [Excalidraw](https://github.com/excalidraw/excalidraw/pulls?q=is%3Apr+state%3Amerged+involves%3Actangonan123)
-- 🎭 [Playwright](https://wwww.github.com/microsoft/playwright/pulls?q=is%3Apr+state%3Amerged+involves%3Actangonan123)
+- 🎭 [Playwright](https://github.com/microsoft/playwright/pulls?q=is%3Apr+state%3Amerged+involves%3Actangonan123)
 
 
 <h3 align="left">Connect with me:</h3>
